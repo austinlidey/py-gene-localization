@@ -1,0 +1,6 @@
+# Exclude from Repo
+/gene_files
+*.data
+*.names
+*.test
+keys.txt
