@@ -8,7 +8,7 @@ homework assignment.
 import os
 import sys
 import pandas as pd
-from file_processing import import_data_file, import_data_files
+from file_processing import import_data_files
 
 # Flow of Program:
 # - Import data files
